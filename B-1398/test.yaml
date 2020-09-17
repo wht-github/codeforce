@@ -1,0 +1,6 @@
+{
+    "type": "column",
+    "label": "有效数据A",
+    "value": "{有效数据A}"，
+    "filter": "lambda x: x > 1"
+}
